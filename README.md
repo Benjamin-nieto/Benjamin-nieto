@@ -46,7 +46,21 @@
 - 📚 **Aprendizaje continuo**  
 
 ## 📌 Proyectos Destacados  
-🔹 Incomming...
+🔹 Implementacion de cluster para orquestar contenedores sobre servidores dedicados, para soluciones productivas.
+
+- Cluster de Nomad & Consul
+- Cluster de docker (DockerSwarm)
+
+🔹 Implementacion de Stack de herramientas de monitoreos.
+- Stack de monitoreo de Prometheus, Grafana, Node Exporter, Agentes JMX, Postgres, Mysql, Cadvisor, Loki.
+- Netdata y notificaciones personalizadas por diferentes canales.
+
+🔹 Implementacion de Stack de herramientas de despliegues continuos.
+- Automatizacion de despliegues con Jenkins y Ansible.
+- Desarrollo de soluciones como codigo.
+- Configuracion y puesta en marcha de servidores proxy y balanceadores como endpoints de API's y Servicios.
+
+
 
 ### 📚 Educación  
 - 🎓 **Ingeniería de Sistemas** (2019 - 2024)  
