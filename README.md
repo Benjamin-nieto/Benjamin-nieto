@@ -5,7 +5,7 @@
 💻 Soy un apasionado a la tecnologia, a ver crecer proyectos de soluciones tecnologicas de diferentes tipos, me agrada ver como se pueden dar soluciones a necesidades de todas las areas por medio de la solucion de sistemas informaticos.
 
 ## 🏅 Sobre mí profesión
-💡 Ingeniero de Sistemas actualmente enfocado de infraestructura y DevOPS, programador y conocedor de multiples tecnologias, frameworks y lenguajes, conocimiento en optimización de software. Experto en el análisis y gestión de bases de datos,  implementación de tecnologías, automatizacion de tareas y diferentes procesos. Con experiencia en proyectos fundamentados en metodologías ágiles (Scrum), buenas practicas y trabajo en equipo.
+💡 Ingeniero de Sistemas actualmente enfocado de infraestructura y DevOPS, programador y conocedor de multiples tecnologias, frameworks y lenguajes, conocimiento en optimización de software. Diestro en la administracion y gestión de bases de datos relacionales y no relacionales,  implementación de tecnologías, automatizacion de tareas y diferentes procesos. Con experiencia en trabajo en equipo, atencion a clientes y proyectos fundamentados en metodologías ágiles (Scrum), buenas practicas y trabajo en equipo.
 
 ## 🎯 Metas  
 
