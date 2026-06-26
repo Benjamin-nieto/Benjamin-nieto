@@ -5,7 +5,7 @@
 💻 Soy un apasionado a la tecnologia, a ver crecer proyectos de soluciones tecnologicas de diferentes tipos, me agrada ver como se pueden dar soluciones a necesidades de todas las areas por medio de la solucion de sistemas informaticos.
 
 ## 🏅 Sobre mí profesión
-💡 Ingeniero de Sistemas actualmente enfocado de infraestructura y DevOPS, programador y conocedor de multiples tecnologias, frameworks y lenguajes, conocimiento en optimización de software. Diestro en la administracion y gestión de bases de datos relacionales y no relacionales,  implementación de tecnologías, automatizacion de tareas y diferentes procesos. Con experiencia en trabajo en equipo, atencion a clientes y proyectos fundamentados en metodologías ágiles (Scrum), buenas practicas y trabajo en equipo.
+💡 Ingeniero de Sistemas actualmente enfocado de infraestructura y DevOPS, programador y conocedor de multiples tecnologias, frameworks y lenguajes, conocimiento en optimización de software. Diestro en la administracion y gestión de bases de datos relacionales,  implementación de tecnologías, automatizacion de tareas y diferentes procesos. Con experiencia en trabajo en equipo, atencion a clientes y proyectos fundamentados en metodologías ágiles (Scrum), buenas practicas y trabajo en equipo.
 
 ## 🎯 Metas  
 
@@ -19,10 +19,10 @@
 ## 💻 Tech Stack  
 
 ### 🚀 Lenguajes  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
 ### 🏗 Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄 Bases de Datos  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 	![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
@@ -62,20 +62,14 @@
 - Configuracion y puesta en marcha de servidores proxy y balanceadores como endpoints de API's y Servicios.
 
 
-
 ### 📚 Educación  
-- 🎓 **Ingeniería de Sistemas** (2019 - 2024)  
+- 🎓 **Ingeniería de Sistemas** (2019 - 2024) - Corporación universidad de la costa CUC
   - Diplomado en marcos ágiles: **Scrum, Design Thinking, Kanban**  
-
-### 🏆 Certificaciones  
-- 📜 **Pending to charge...**  
+- 🎓 **Tecnólogo en analisis y desarrollo de sistemas de información** (2017 - 2019) - Servicio nacional de aprendizaje SENA
 
 ## 📩 Contacto  
 📧 [benjaminieto2011@gmail.com](mailto:benjaminieto2011@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-nieto-121b79327/)  
 
 
----
-
-_¡Gracias por visitar mi perfil! 😊🚀_
 
